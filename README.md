@@ -1,0 +1,1 @@
+# zenn-nextjs-routes-types
